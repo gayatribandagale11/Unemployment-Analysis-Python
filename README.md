@@ -68,12 +68,27 @@ This data helps in analyzing both temporal and regional unemployment patterns.
 
 ## 📊 Key Visualizations
 
-- 📈 Trend of unemployment over time  
-- 📊 Distribution of unemployment rates  
-- 🌍 State-wise comparison  
-- 🦠 Covid-19 impact graphs  
-- 📅 Monthly trend analysis  
-- 🔥 Correlation heatmap  
+- 📈 Trend of unemployment over time
+  <img width="957" height="442" alt="image" src="https://github.com/user-attachments/assets/8b5049c4-2160-40c2-b273-347d289492e6" />
+
+
+- 📊 Distribution of unemployment rates
+  <img width="690" height="448" alt="image" src="https://github.com/user-attachments/assets/633957c3-11ab-44d8-9456-bee15dbff30e" />
+
+- 🌍 State-wise comparison
+  <img width="660" height="381" alt="image" src="https://github.com/user-attachments/assets/e38f9d90-35e0-49fd-a265-2f022d18f094" />
+
+- 🦠 Covid-19 impact 
+   <img width="683" height="452" alt="image" src="https://github.com/user-attachments/assets/83c402ac-373c-4d3e-bf1b-d080147b7171" />
+
+- 📅 Monthly trend analysis
+  <img width="697" height="391" alt="image" src="https://github.com/user-attachments/assets/8f7cd7ac-f081-4a04-a937-903f82853ccc" />
+
+- 🔥 Correlation heatmap
+  <img width="485" height="383" alt="image" src="https://github.com/user-attachments/assets/efcb9a06-6836-49bb-8729-8587899a07b7" />
+
+-  Unemployment Trend by Region
+  <img width="954" height="472" alt="image" src="https://github.com/user-attachments/assets/fca7be80-77b5-43ba-9644-17412fc20b07" />
 
 ## 💡 Key Insights
 
